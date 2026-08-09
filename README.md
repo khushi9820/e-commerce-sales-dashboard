@@ -120,16 +120,6 @@ To refresh the dashboard with latest data:
 3. Wait for all queries to complete
 4. Save the project
 
-## 📞 Support & Contribution
-
-- **Issues**: Report bugs or feature requests via GitHub Issues
-- **Contributions**: Fork the repository and submit pull requests
-- **Questions**: Open a discussion or contact the repository owner
-
-## 📜 License
-
-This project is open source and available under the MIT License. See LICENSE file for details.
-
 ## 👤 Author
 
 - **Created by**: Khushi Singh (@khushi9820)
@@ -156,4 +146,4 @@ This project is open source and available under the MIT License. See LICENSE fil
 
 **Last Updated**: August 2026
 
-For more information, visit the [repository](https://github.com/khushi9820/e-commerce-sales-dashboard) or contact the author.
+For more information, visit the [repository](https://github.com/khushi9820/e-commerce-sales-dashboard).
